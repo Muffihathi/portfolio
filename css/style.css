@@ -78,8 +78,8 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/profile-image.png);
-    background-position: center;
+    background-image: url(../images/profile-image.jpeg);
+    background-position-x: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
     border-radius: 50%;
